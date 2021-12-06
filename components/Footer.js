@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made by Simpery
+        Made by Simpery with his balls
       </footer>
     </>
   )
