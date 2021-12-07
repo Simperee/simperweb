@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Simpi's Hell</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/simp.ico" />
       </Head>
 
       <main>
