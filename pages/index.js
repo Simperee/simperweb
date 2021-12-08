@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my hell!" />
         <p className="description">
-          Oh god i spilt my bottle of cum
+          Oh god oh no oh fuck i spilt my bottle of cum and now im wet 😳😳😳
         </p>
       </main>
 
